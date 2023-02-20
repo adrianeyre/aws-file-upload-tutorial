@@ -126,7 +126,7 @@ We can run the website locally to test that it all works and see how it looks!
 - Type `npm start` to start the web server.
 - Find the IP address from the terminal output of your web server and open it up in a browser.
 
-## Inisialising Amplify
+## Initialising Amplify
 Now it's time to initialise and configure Amplify deployments.
 - From your IDE terminal type `amplify init`
 - Enter `awsamplifywebsite` for the project name.
