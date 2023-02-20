@@ -74,8 +74,8 @@ Lets now create a really simple web page that we can use for our website.
   - Enter your name for the author.
   - Leave the license blank.
   - type `yes` to confirm your settings are correct and press `Enter`
-- Install `AWS Amplify` NPM dependancy by typing `npm i --save aws-amplify`
-- Install some dev dependancies needed by typing `npm i --save-dev webpack webpack-cli webpack-dev-server copy-webpack-plugin`
+- Install `AWS Amplify` NPM dependency by typing `npm i --save aws-amplify`
+- Install some dev dependencies needed by typing `npm i --save-dev webpack webpack-cli webpack-dev-server copy-webpack-plugin`
 - Add the following scripts to your `package.json` file.
 ```json
 "scripts": {

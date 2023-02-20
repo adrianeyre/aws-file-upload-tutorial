@@ -1,7 +1,7 @@
 # Updating the Lambda to accept the text file and upload to the bucket
 
 ## Outline of this section
-In this section we will update our AWS Lambda handler to accept the text from the incoming POST request. We will then send that to our newley created S3 Bucket.
+In this section we will update our AWS Lambda handler to accept the text from the incoming POST request. We will then send that to our newly created S3 Bucket.
 
 ## Creating AWS Secrets
 So that we do not have any secrets in our code it is essential we use AWS secrets to store them. We can then update our code to read these secrets and use them appropriately.
@@ -9,7 +9,7 @@ So that we do not have any secrets in our code it is essential we use AWS secret
 - From the search bar type `Secrets`
 - Select `Secrets` from the search results.
 - Click the `Store a new secret` button.
-- Selecct `Other type of secret` from the `Secret type`.
+- Select `Other type of secret` from the `Secret type`.
 - Select `Plaintext` tab for the `Key/value pairs`
 
 You will need to create three secrets in total.

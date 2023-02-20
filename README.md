@@ -12,7 +12,7 @@ We look at the following services and how we can integrate and deploy them in AW
 - [GitHub](https://github.com)
 - [GitHub Actions](https://github.com/features/actions)
 
-## Prerequsits
+## Prerequisites
 - An [AWS Account](https://portal.aws.amazon.com/billing/signup) with write access.
 - [Node](https://nodejs.org) installed.
 - [NPM](https://www.npmjs.com) installed.
@@ -28,5 +28,5 @@ We look at the following services and how we can integrate and deploy them in AW
 
 ## Bibliography 
 - [AWS Amplify Tutorial for JS](https://docs.amplify.aws/start/getting-started/installation/q/integration/js/)
-- How to deploy a lambda function using github actions? [YouTube Video](https://www.youtube.com/watch?v=UQiRhKgQ5X0)
-- File Upload using Fetch API [YouTub Video](https://www.youtube.com/watch?v=e13T3O0Iyvc)
+- How to deploy a lambda function using Github actions? [YouTube Video](https://www.youtube.com/watch?v=UQiRhKgQ5X0)
+- File Upload using Fetch API [YouTube Video](https://www.youtube.com/watch?v=e13T3O0Iyvc)
